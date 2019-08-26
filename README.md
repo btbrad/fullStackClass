@@ -1,4 +1,5 @@
-# shopping-cart
+# fullStackStudy
+> some basic exercises
 
 ## Project setup
 ```
